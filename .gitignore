@@ -1,0 +1,11 @@
+steam_appid.txt
+
+.*.class
+# Ignore IDEs and Maven
+.settings/
+/classpath/
+.classpath
+/project/
+.project
+/target/
+/bin/
